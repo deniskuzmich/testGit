@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "express": "^5.1.0",
-    "serve-favicon": "^2.5.1"
-  }
-}
